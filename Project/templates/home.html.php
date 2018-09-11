@@ -1,0 +1,1 @@
+<h2>Welcome to the Internet Joke Database</h2>
